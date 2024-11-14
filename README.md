@@ -11,7 +11,7 @@
 
 ## Screenshots
 ## Video
-Shop Owner Interview for understanding the problems : [[Video Link](Video Link)](https://drive.google.com/file/d/1rQMOvmyS0jVV0uQHm8ekutQ4qUOPRjZJ/view?usp=drive_link)
+Shop Owner Interview for understanding the problems : [Video Link](https://drive.google.com/file/d/1rQMOvmyS0jVV0uQHm8ekutQ4qUOPRjZJ/view?usp=drive_link)
 
 ## Technologies Used
 

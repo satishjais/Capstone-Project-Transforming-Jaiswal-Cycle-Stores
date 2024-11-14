@@ -10,6 +10,13 @@
 - **Sales Analysis**: Identify top-selling products and customer preferences to guide inventory and marketing strategies.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/f9f3210f-1878-4ece-b193-328f84dea3ae)
+![image](https://github.com/user-attachments/assets/70753625-6e88-4f8c-8100-04fe5420f163)
+![image](https://github.com/user-attachments/assets/71cc43f8-1a77-4772-a930-8699a92b0fdb)
+![image](https://github.com/user-attachments/assets/b993021c-2fc2-4e94-81ec-d06ddcb5de57)
+![image](https://github.com/user-attachments/assets/13f7b498-4820-447b-ace1-7b65a93758c0)
+![image](https://github.com/user-attachments/assets/4051e095-4094-45c2-a7a7-d7361b8e4346)
+
 ## Video
 Shop Owner Interview for understanding the problems : [Video Link](https://drive.google.com/file/d/1rQMOvmyS0jVV0uQHm8ekutQ4qUOPRjZJ/view?usp=drive_link)
 

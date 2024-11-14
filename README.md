@@ -2,6 +2,10 @@
 
 **Overview:** This capstone project aims to address the challenges faced by Jaiswal Cycle Stores, a local bicycle retailer, using a data-driven approach. By analyzing customer preferences, sales trends, and inventory data, we propose strategic recommendations to boost sales, optimize inventory, and improve customer satisfaction, particularly during seasonal fluctuations.
 
+## Video
+Shop Owner Interview for understanding the problems : [Video Link](https://drive.google.com/file/d/1rQMOvmyS0jVV0uQHm8ekutQ4qUOPRjZJ/view?usp=drive_link)
+
+
 ## Features
 - **Real-Time Customer Flow Management**: Predict peak periods and allocate staff efficiently to enhance the customer experience.
 - **Inventory Optimization**: Develop data-driven inventory management to reduce overstocking and ensure product availability.
@@ -16,9 +20,6 @@
 ![image](https://github.com/user-attachments/assets/b993021c-2fc2-4e94-81ec-d06ddcb5de57)
 ![image](https://github.com/user-attachments/assets/13f7b498-4820-447b-ace1-7b65a93758c0)
 ![image](https://github.com/user-attachments/assets/4051e095-4094-45c2-a7a7-d7361b8e4346)
-
-## Video
-Shop Owner Interview for understanding the problems : [Video Link](https://drive.google.com/file/d/1rQMOvmyS0jVV0uQHm8ekutQ4qUOPRjZJ/view?usp=drive_link)
 
 ## Technologies Used
 

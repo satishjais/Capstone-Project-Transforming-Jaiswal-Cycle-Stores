@@ -10,7 +10,8 @@
 - **Sales Analysis**: Identify top-selling products and customer preferences to guide inventory and marketing strategies.
 
 ## Screenshots
-
+## Video
+Shop Owner Interview for understanding the problems : [[Video Link](Video Link)](https://drive.google.com/file/d/1rQMOvmyS0jVV0uQHm8ekutQ4qUOPRjZJ/view?usp=drive_link)
 
 ## Technologies Used
 

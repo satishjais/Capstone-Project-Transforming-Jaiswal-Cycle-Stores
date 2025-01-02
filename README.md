@@ -57,5 +57,3 @@ Shop Owner Interview for understanding the problems : [Video Link](https://drive
 3. **Generate Reports**: Visualizations and reports can be generated through Python and presented as PDF/HTML.
 
 ---
-
-This README outlines the **Transforming Jaiswal Cycle Stores** project, detailing the features, data analysis, findings, and proposed strategies for retail success.
